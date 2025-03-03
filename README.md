@@ -23,16 +23,16 @@ This analysis provides insights that **businesses can use** to optimize sales st
 The dataset (`walmart_data.csv`) consists of customer transactions during **Black Friday sales at Walmart**. 
 
 ### 🔹 **Columns & Features:**
-- ** User_ID** – Unique customer ID  
-- ** Product_ID** – Unique product identifier  
-- ** Gender** – Customer's gender (`M` = Male, `F` = Female)  
-- ** Age** – Age group (`0-17`, `18-25`, `26-35`, etc.)  
-- ** Occupation** – Encoded occupation category  
-- ** City_Category** – City classification (`A`, `B`, `C`)  
-- ** Stay_In_Current_City_Years** – Number of years customer has stayed in their city  
-- ** Marital_Status** – `0` (Single) or `1` (Married)  
-- ** Product_Category** – Encoded category of purchased product  
-- ** Purchase** – Purchase amount in dollars  
+- **User_ID** – Unique customer ID  
+- **Product_ID** – Unique product identifier  
+- **Gender** – Customer's gender (`M` = Male, `F` = Female)  
+- **Age** – Age group (`0-17`, `18-25`, `26-35`, etc.)  
+- **Occupation** – Encoded occupation category  
+- **City_Category** – City classification (`A`, `B`, `C`)  
+- **Stay_In_Current_City_Years** – Number of years customer has stayed in their city  
+- **Marital_Status** – `0` (Single) or `1` (Married)  
+- **Product_Category** – Encoded category of purchased product  
+- **Purchase** – Purchase amount in dollars  
 
 ---
 
