@@ -36,7 +36,7 @@ The dataset (`walmart_data.csv`) consists of customer transactions during **Blac
 
 ---
 
-## Key Insights**
+## Key Insights
 - **Age Group 25-40 contributes ~80% of total spending**
    - **26-35 (40%)**, **18-25 (18%)**, **36-45 (20%)**  
 **Males contribute ~75% of total purchases**  
@@ -59,7 +59,7 @@ The dataset (`walmart_data.csv`) consists of customer transactions during **Blac
 
 ---
 
-## **🛠 Technologies Used**
+## **Technologies Used
 ✔ **Python** (Data Analysis & Visualization)  
 ✔ **Pandas, NumPy** (Data Processing)  
 ✔ **Matplotlib, Seaborn, Plotly** (Data Visualization)  
