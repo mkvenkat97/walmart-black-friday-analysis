@@ -44,9 +44,9 @@ The dataset (`walmart_data.csv`) consists of customer transactions during **Blac
    - 📌 **Avg. Female Spending:** **$712,217.18**  
 🔹 **Single customers spend more than married customers**  
 🔹 **Customers who lived in a city for 1 year spend the most**  
-🔹 *City B has the highest total sales, but City C has the highest purchase frequency**  
-🔹 *Top-selling product categories: 1, 5, 8, and 11**  
-🔹 *There are 20 different occupation types contributing to sales**  
+🔹 **City B has the highest total sales, but City C has the highest purchase frequency**  
+🔹 **Top-selling product categories: 1, 5, 8, and 11**  
+🔹 **There are 20 different occupation types contributing to sales**  
 
 ---
 
