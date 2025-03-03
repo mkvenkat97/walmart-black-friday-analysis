@@ -59,7 +59,7 @@ The dataset (`walmart_data.csv`) consists of customer transactions during **Blac
 
 ---
 
-## **Technologies Used
+## Technologies Used
 ✔ **Python** (Data Analysis & Visualization)  
 ✔ **Pandas, NumPy** (Data Processing)  
 ✔ **Matplotlib, Seaborn, Plotly** (Data Visualization)  
