@@ -37,15 +37,15 @@ The dataset (`walmart_data.csv`) consists of customer transactions during **Blac
 ---
 
 ## Key Insights**
-**Age Group 25-40 contributes ~80% of total spending**
+- **Age Group 25-40 contributes ~80% of total spending**
    - **26-35 (40%)**, **18-25 (18%)**, **36-45 (20%)**  
 **Males contribute ~75% of total purchases**  
    -  **Avg. Male Spending:** **$925,408.28**  
    -  **Avg. Female Spending:** **$712,217.18**  
-**Single customers spend more than married customers**  
-**Customers who lived in a city for 1 year spend the most**  
-**City B has the highest total sales, but City C has the highest purchase frequency**  
-**Top-selling product categories: 1, 5, 8, and 11**  
+- **Single customers spend more than married customers**  
+- **Customers who lived in a city for 1 year spend the most**  
+- **City B has the highest total sales, but City C has the highest purchase frequency**  
+- **Top-selling product categories: 1, 5, 8, and 11**  
 **There are 20 different occupation types contributing to sales**  
 
 ---
