@@ -10,7 +10,7 @@ This analysis provides insights that **businesses can use** to optimize sales st
 
 ---
 
-## Why This Project is Useful**
+## Why This Project is Useful
 🔹 Helps businesses understand Black Friday shopping trends  
 🔹 Identifies customer groups that contribute the most to sales  
 🔹 Supports better marketing and product placement strategies  
@@ -19,7 +19,7 @@ This analysis provides insights that **businesses can use** to optimize sales st
 ---
 
 
-## Dataset Description**
+## Dataset Description
 The dataset (`walmart_data.csv`) consists of customer transactions during **Black Friday sales at Walmart**. 
 
 ### Columns & Features:
@@ -51,11 +51,11 @@ The dataset (`walmart_data.csv`) consists of customer transactions during **Blac
 ---
 
 ## Actionable Insights
-** Men spend more than women** – Walmart should focus on **acquiring & retaining female customers**  
-** Most purchases come from age group 25-40** – Targeted marketing for this group can **increase revenue**  
-** Unmarried customers spend more than married customers** – Special promotions for married customers may help  
-** City B has the highest revenue, but City C has frequent shoppers** – Expand more **stores in Cities A & C**  
-** Product Categories 1, 5, 8, & 11 sell the most** – Walmart should **stock and promote these products more**  
+**Men spend more than women** – Walmart should focus on **acquiring & retaining female customers**  
+**Most purchases come from age group 25-40** – Targeted marketing for this group can **increase revenue**  
+**Unmarried customers spend more than married customers** – Special promotions for married customers may help  
+**City B has the highest revenue, but City C has frequent shoppers** – Expand more **stores in Cities A & C**  
+**Product Categories 1, 5, 8, & 11 sell the most** – Walmart should **stock and promote these products more**  
 
 ---
 
