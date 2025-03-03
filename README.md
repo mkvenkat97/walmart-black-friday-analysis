@@ -4,7 +4,7 @@
 Black Friday Purchase Analysis using Walmart dataset
 
 ## 📌 About the Project
-This project analyzes customer purchase behavior during Black Friday sales at Walmart. Using transactional data, the goal is to understand who spends more and why** based on age, gender, marital status, city category, and product category. 
+This project analyzes customer purchase behavior during Black Friday sales at Walmart. Using transactional data, the goal is to understand who spends more and why based on age, gender, marital status, city category, and product category. 
 
 This analysis provides insights that **businesses can use** to optimize sales strategies, improve marketing campaigns, and better serve customer needs.
 
