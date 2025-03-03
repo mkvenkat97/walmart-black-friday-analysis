@@ -51,11 +51,11 @@ The dataset (`walmart_data.csv`) consists of customer transactions during **Blac
 ---
 
 ## Actionable Insights
-**Men spend more than women** – Walmart should focus on **acquiring & retaining female customers**  
-**Most purchases come from age group 25-40** – Targeted marketing for this group can **increase revenue**  
-**Unmarried customers spend more than married customers** – Special promotions for married customers may help  
-**City B has the highest revenue, but City C has frequent shoppers** – Expand more **stores in Cities A & C**  
-**Product Categories 1, 5, 8, & 11 sell the most** – Walmart should **stock and promote these products more**  
+- **Men spend more than women** – Walmart should focus on **acquiring & retaining female customers**  
+- **Most purchases come from age group 25-40** – Targeted marketing for this group can **increase revenue**  
+- **Unmarried customers spend more than married customers** – Special promotions for married customers may help  
+- **City B has the highest revenue, but City C has frequent shoppers** – Expand more **stores in Cities A & C**  
+- **Product Categories 1, 5, 8, & 11 sell the most** – Walmart should **stock and promote these products more**  
 
 ---
 
